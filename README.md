@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Emad</h1>
 <h3 align="center">A passionate AI/Machine Learning Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omr-123" alt="omr-123" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=omr-123&rank=-?" alt="omr-123" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Machine Learning , Ai**
 
@@ -24,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omr-123&show_icons=true&locale=en" alt="omr-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omr-123&" alt="omr-123" /></p>
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Omr-123/Omr-123/snake-output/snake.svg" alt="Snake animation" />
