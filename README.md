@@ -31,4 +31,4 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Omr-123/Omr-123/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Omr-123/Omr-123/snake-output/snake-dark.svg" alt="Snake animation" />
