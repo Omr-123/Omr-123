@@ -1,8 +1,5 @@
-# Hi 👋! My name is Omar Emad and I'm a Computer Science Student, from Egypt.
+<h2 data-importer="text" align="left">My name is Omar Emad and I'm a Computer Science Student & Software Developer.</h2>
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Omar Emad LinkedIn" /></a>
-</p>
 ###
 
 <div data-importer="stats" align="center">
